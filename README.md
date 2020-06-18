@@ -10,6 +10,8 @@
  Batik-Siamese-4_2.ipynb is recognize batik with 4 images for train and 2 for test
  Batik-Siamese-5_1.ipynb is recognize batik with 5 images for train and 1 for test
 
- you can implement or using this technique for small dataset that has a high similarity like images in the Batik300's folder
+ you can implement or using this technique for small dataset that has a high similarity like images in the Batik300's 
+ 
+ PNG file contains the report of training and testing 
  
  
